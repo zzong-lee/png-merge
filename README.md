@@ -2,6 +2,8 @@
 
 여러 PNG를 카드로 보고, 회전하거나 순서를 바꾼 뒤 PDF 또는 세로로 이어 붙인 PNG 한 장으로 저장하는 Windows 프로그램입니다.
 
+![PNG 병합 화면](docs/screen.png)
+
 ## 실행
 
 Python이 있는 PC에서는 `실행.bat`을 더블클릭합니다. Pillow가 없으면 자동으로 설치한 뒤 창을 엽니다.
